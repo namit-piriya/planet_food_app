@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/dao/EmpDao.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/ViewAllDateOrdersFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/ViewOrdersFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/pojo/OrderDetail.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/pojo/Product.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/dao/UserDao.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/AddCategoryFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/dao/CategoryDao.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/ViewAllCategoriesFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/ViewProductsFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/AdminOptionsFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/LoginFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/ViewTransactionsFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/pojo/Category.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/RemoveEmpFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/RemoveProductFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/AddEmpFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/SplashScreenFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/EditProductFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/dao/ProductDao.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/AddProductFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/EditEmpFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/ViewMenuListFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/pojo/Order.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/dbutil/DBConnection.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/RemoveCashierFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/ViewEmpFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/ViewSingleEmpFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/EditCategoryFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/ViewAllProductsFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/pojo/User.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/dao/OrderDao.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/ViewSingleProductFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/pojo/Emp.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/ViewAllEmpFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/TakeOrderFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/pojo/UserProfile.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/ViewAllOrdersFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/CashierOptionsFrame.java</file>
+            <file>file:/F:/projects/Planet%20Food%20App/src/planetfood/gui/RegisterCashierFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
